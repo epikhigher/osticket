@@ -153,7 +153,7 @@ define('LOCAL_NETWORKS', '127.0.0.0/24');
 # specifications. If more than one server is listed, the session is written
 # to all of the servers for redundancy.
 #
-# Values: 'db' (default)
+# Values: 'db' (default) dfdf
 #         'memcache' (Use Memcache servers)
 #         'system' (use PHP settings as configured (not recommended!))
 #
