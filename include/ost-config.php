@@ -134,7 +134,7 @@ define('TRUSTED_PROXIES', '');
 #
 # When running osTicket as part of a cluster it might become necessary to
 # whitelist local/virtual networks that can bypass some authentication/checks.
-#
+#.
 # define comma separated IP addreseses or enter CIDR of local network.
 
 define('LOCAL_NETWORKS', '127.0.0.0/24');
